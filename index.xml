@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Arnau Reig | Developer</title><link>https://arreme.dev/</link><description>Recent content on Arnau Reig | Developer</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://arreme.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Initial Commit</title><link>https://arreme.dev/p/initial-commit/</link><pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate><guid>https://arreme.dev/p/initial-commit/</guid><description>&lt;img src="https://arreme.dev/p/initial-commit/cover.jpg" alt="Featured image of post Initial Commit" /&gt;&lt;p&gt;So, welcome to my blog! If you don&amp;rsquo; know me I suggest going to &lt;a class="link" href="https://arreme.dev/about/" title="About Us"
+&gt;About&lt;/a&gt; page.&lt;/p&gt;</description></item><item><title>Archives</title><link>https://arreme.dev/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://arreme.dev/archives/</guid><description/></item><item><title>About</title><link>https://arreme.dev/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://arreme.dev/about/</guid><description>&lt;p&gt;&lt;img src="https://arreme.dev/about/cover.jpg"
+width="1640"
+height="664"
+srcset="https://arreme.dev/about/cover_hu_b24f6ba3f5131e2a.jpg 480w, https://arreme.dev/about/cover_hu_32d03833e8359bc5.jpg 1024w"
+loading="lazy"
+alt="Friska, my nap taking cat"
+class="gallery-image"
+data-flex-grow="246"
+data-flex-basis="592px"
+&gt;
+Hello! I&amp;rsquo;m Arreme or Arnau Reig, a game developer and an embedded programmer. You will have to read my career to understand why I have a passion for this two, seemingly distinct topics😉&lt;/p&gt;
+&lt;p&gt;One of my passions is learning new stuff, getting my hands dirty and teaching other people about what I have discovered. Hence the reason I have started this website. Please don&amp;rsquo;t hesitate to contact me for questions!&lt;/p&gt;
+&lt;p&gt;I also love scenical arts like dancing and theater, which I practice as a hobby.&lt;/p&gt;
+&lt;p&gt;As a last reminder I like to tell to people: You can learn from everything and from everyone. Stay humble, and listen to what others say. Like this music recommendation I&amp;rsquo;m about to say.&lt;/p&gt;
+&lt;div class="video-wrapper"&gt;
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/0P0lOf1FifE"
+allowfullscreen
+title="YouTube Video"
+&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h2 id="career"&gt;Career
+&lt;/h2&gt;&lt;p&gt;Studied a double degree in Computer Science and Game Design. During my studies I got interested in digital tweens, IoT and embedded development. I paired my studies with diferent jobs, which include developing C firmware in an IoT company and C++ code for an AR/VR glasses for people with low vision. You can check my Linkedin for more information.&lt;/p&gt;
+&lt;p&gt;In 2023 a little game we made back in University got selected for an Incubation program. That&amp;rsquo;s when we decided to start creating &lt;a class="link" href="https://dustgames.es/" target="_blank" rel="noopener"
+&gt;Roombattle&lt;/a&gt;, which is still in development and hopefully it will be out this 2025.&lt;/p&gt;
+&lt;h2 id="projects"&gt;Projects
+&lt;/h2&gt;&lt;h3 id="roombattle"&gt;Roombattle
+&lt;/h3&gt;&lt;p&gt;One of my main projects is &lt;a class="link" href="https://dustgames.es/" target="_blank" rel="noopener"
+&gt;Roombattle&lt;/a&gt;. A casual multiplayer game where you have to pop the balloons of your friends in dynamic rooms full of obstacles.
+My main role has been dealing with the core mechanics of the game (Movement, player interaction) as well as providing a clear pipeline for the entire team (Map structure, folder structure, tooling and technological planning). Furthermore, I have been in charge on developing and porting the core mechanics to online, using &lt;a class="link" href="https://netick.net/" target="_blank" rel="noopener"
+&gt;Netick&lt;/a&gt;.
+&lt;img src="https://arreme.dev/about/Roombattle.jpg"
+width="1920"
+height="1080"
+srcset="https://arreme.dev/about/Roombattle_hu_e8dffd5360c0cd9c.jpg 480w, https://arreme.dev/about/Roombattle_hu_727e24db6f515203.jpg 1024w"
+loading="lazy"
+alt="A footage of a gameplay scene in Roombattle, Local Build"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+&gt;&lt;/p&gt;
+&lt;h3 id="c-discord-bot"&gt;C++ Discord Bot
+&lt;/h3&gt;&lt;p&gt;To learn about C++ and kickstart my career as a C++ developer, In 2023 I started developing a minimalistic RPG for a Discord Bot. I had to design the entire structure and apply different patterns for the API design and flexibility. This project allowed me to start a position as a junior C++ developer in Biel Glasses back in 2025&lt;/p&gt;</description></item><item><title>Search</title><link>https://arreme.dev/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://arreme.dev/search/</guid><description/></item></channel></rss>
