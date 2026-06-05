@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://arreme.dev"
+baseurl = "https://arreme.com"
 languageCode = "en-us"
 title = "Arnau Reig | Developer"
 
